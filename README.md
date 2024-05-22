@@ -1,3 +1,6 @@
+The main purpose of this branch is to get my personal docker-compose working on a portainer webstack w/o manually pulling the repo and editing anything. (Lazy-convenient)
+----
+
 > [!WARNING]
 > **Effective September 15th, 2023, Mattermost, Inc. staff are no longer reviewing or merging pull requests for either Focalboard or the Mattermost Boards plugin in this repository (`mattermost/focalboard`). We encourage the community to fork this repository for continued development and contributions.**
 >
